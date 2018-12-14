@@ -17,3 +17,4 @@ For Backend Rest:
 2. Build the Project using 'mvn clean install'
 3. Run the Application.
 
+Rest service listens on http://localhost:8080/v1/upload
